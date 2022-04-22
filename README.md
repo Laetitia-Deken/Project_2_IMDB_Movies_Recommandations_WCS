@@ -7,7 +7,7 @@ Pour aller encore plus loin, il vous demande de créer un moteur de recommandati
 
 Pour l’instant, aucun client n’a renseigné ses préférences, vous êtes dans une situation de cold start. Mais heureusement, le client vous donne une base de données de films basée sur la plateforme IMDb.
 
-
+![This is an image](https://github.com/Laetitia-Deken/Project_2_Recommandation_de_films/blob/main/IMDB_Logo_2016.svg.png)
 
 Vous allez commencer par proposer une analyse complète de la base de données (Quels sont les acteurs les plus présents ? À quelle période ? La durée moyenne des films s’allonge ou se raccourcit avec les années ? Les acteurs de série sont-ils les mêmes qu’au cinéma ? Les acteurs ont en moyenne quel âge ? Quels sont les films les mieux notés ? Partagent-ils des caractéristiques communes ? etc…) Suite à une première analyse, vous pouvez décider de spécialiser votre cinéma, par exemple sur la « période années 90 », ou alors sur « les films d’action et d’aventure », afin d'affiner votre exploration.
 
