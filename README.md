@@ -27,3 +27,5 @@ Le client a 2 besoins, qui peuvent être dans 2 outils séparés :
 - Retourner une liste de films recommandés en fonction d'IDs ou de noms de films choisis par un utilisateur. Vous pouvez intégrer ces recommandations à un outil de dashboarding, ou bien faire ces recommandations directement depuis la ligne de commande (“input”).
 
 L’objectif n’est pas d’arriver à un travail parfait, mais que le système fonctionne et que vous arriviez à déceler les points à améliorer.
+
+Deployed app : https://share.streamlit.io/laetitia-deken/project_2_recommandation_de_films/main/streamlit_projet_2.py
